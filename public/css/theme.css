@@ -20,7 +20,7 @@ a.nav-link{
 
 body, html{ /* from: https://coderwall.com/p/ape0jg/full-page-gradient-background
     background: #e9e9f4; /* fallback color */
-    background: linear-gradient( to bottom, #0a090a, #0e0e0e);
+    background: linear-gradient( to bottom, #5a9a6d, #559d47);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
