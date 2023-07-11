@@ -1,3 +1,14 @@
+
+/********************************************************************************* *  WEB700 – Assignment 04 
+*	I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part  *  of this assignment has been copied manually or electronically from any other source  *  (including 3rd party web sites) or distributed to other students. 
+*  
+*	Name: Mabel Kwakye Student ID: 128876224 Date: 11/07/2023
+* 
+*	Online (Cyclic) Link: https://alive-goat-button.cyclic.app/
+* 
+********************************************************************************/  
+
+
 const express = require("express");
 const path = require("path");
 const data = require("./modules/collegeData.js");
